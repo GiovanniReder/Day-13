@@ -1,0 +1,36 @@
+body {
+  margin: 2%;
+  min-width: 250px;
+  background-color: #333533;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+#inputDiv {
+  margin-left: 30%;
+}
+.checked {
+  border: 1px solid black;
+}
+#inputBar {
+  color: #f5cb5c;
+  font-size: 3em;
+  font-family: monospace;
+}
+button {
+  border-radius: 20%;
+}
+#taskList {
+  font-size: 2.5em;
+  color: #e8eddf;
+  padding-top: 5%;
+}
+#addTask-btn {
+  padding: 1%;
+  color: #f5cb5c;
+  background-color: rgb(101, 97, 97);
+}
+button.close {
+  background-color: #f5cb5c;
+}
+li {
+  padding-top: 2%;
+}
